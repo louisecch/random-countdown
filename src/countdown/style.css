@@ -1,11 +1,11 @@
 @font-face {
   font-family: Recoleta;
-  src: url(./assets/recoleta-bold.woff);
+  src: url(../../assets/fonts/recoleta-bold.woff);
 }
 
 @font-face {
   font-family: Neue Haas;
-  src: url(./assets/neue-haas-display-medium.ttf);
+  src: url(../../assets/fonts/neue-haas-display-medium.ttf);
 }
 
 * {
@@ -254,7 +254,7 @@ mobile-title {
 
   img {
     display: block;
-    content: url("./assets/snoo-fade-out.gif");
+    content: url("../../assets/images/snoo-fade-out.gif");
     width: 150px;
     margin: 0 auto;
     object-fit: contain;
@@ -304,7 +304,7 @@ mobile-title {
 
   img {
     display: block;
-    content: url("./assets/snoo-running.gif");
+    content: url("../../assets/images/snoo-running.gif");
     width: 100px;
     margin: 0 auto;
     object-fit: contain;
@@ -389,7 +389,7 @@ mobile-title {
 
   img {
     display: block !important;
-    content: url("./assets/snoo-died.png");
+    content: url("../../assets/images/snoo-died.png");
     width: 150px;
     margin: 0 auto;
     object-fit: contain;
